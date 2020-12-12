@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MyFirstGame",
+"productVersion": "1.2.0",
+"dataUrl": "Game FPS Tembak Edun.data.unityweb",
+"wasmCodeUrl": "Game FPS Tembak Edun.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game FPS Tembak Edun.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
